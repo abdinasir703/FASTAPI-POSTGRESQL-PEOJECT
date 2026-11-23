@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bca7a920-57b1-4d17-9266-ef1102b314b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FastAPIProject143.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FastAPI main" />
+        <option value="FastAPI test_main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000015234614" />
+      <entry key="MS500" value="1.0172980211270117" />
+      <entry key="S2" value="1.451386661312239" />
+      <entry key="S5" value="2.172464058570937" />
+      <entry key="S10" value="3.0217123770485306" />
+      <entry key="S30" value="4.510295585386202" />
+      <entry key="S60" value="5.1706461182487375" />
+      <entry key="M2" value="5.987709615332101" />
+      <entry key="M5" value="13.396898202918111" />
+      <entry key="M10" value="36.59225449515147" />
+      <entry key="M15" value="63.923752847480486" />
+      <entry key="M30" value="138.87357063111966" />
+      <entry key="H1" value="230.7982914543934" />
+      <entry key="H2" value="308.52951399987234" />
+      <entry key="H4" value="360.11598592245883" />
+      <entry key="D1" value="411.6235482584432" />
+      <entry key="W1" value="421.3512301414171" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.299181198496867E-184" />
+      <entry key="S10" value="2.3019950474527163E-92" />
+      <entry key="S30" value="2.844689010271915E-31" />
+      <entry key="S60" value="5.333562608868586E-16" />
+      <entry key="M2" value="2.3094511419357683E-8" />
+      <entry key="M5" value="8.836534743684517E-4" />
+      <entry key="M10" value="0.031032554521934014" />
+      <entry key="M15" value="0.10802822128257013" />
+      <entry key="M30" value="0.41981672484610894" />
+      <entry key="H1" value="0.888362983122998" />
+      <entry key="H2" value="1.3220685459434656" />
+      <entry key="H4" value="1.6227065879055593" />
+      <entry key="D1" value="1.9309567585796101" />
+      <entry key="W1" value="1.9899734287076316" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827029976169051" />
+      <entry key="MS500" value="0.9921807749344523" />
+      <entry key="S2" value="1.4421735534653484" />
+      <entry key="S5" value="2.166987022016292" />
+      <entry key="S10" value="3.017886904181914" />
+      <entry key="S30" value="4.508335164378184" />
+      <entry key="S60" value="5.1690321840790485" />
+      <entry key="M2" value="5.978760082873953" />
+      <entry key="M5" value="13.365138631204214" />
+      <entry key="M10" value="36.57825444980518" />
+      <entry key="M15" value="63.98067426873526" />
+      <entry key="M30" value="139.23730897822574" />
+      <entry key="H1" value="231.6391958048885" />
+      <entry key="H2" value="309.8195686608896" />
+      <entry key="H4" value="361.71993360651726" />
+      <entry key="D1" value="413.5509208354366" />
+      <entry key="W1" value="423.3406792031985" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MHGlI8RmgO6spWkpmCCp9tJgwI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;FastAPI.FastAPIProject143.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="FastAPIProject143" type="Python.FastAPI">
+      <option name="file" value="$PROJECT_DIR$/main.py" />
+      <module name="FastAPIProject143" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bca7a920-57b1-4d17-9266-ef1102b314b4" name="Changes" comment="" />
+      <created>1795000229325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795000229325</updated>
+      <workItem from="1795000230453" duration="3919000" />
+      <workItem from="1795416857298" duration="3135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FastAPIProject143$FastAPIProject143.coverage" NAME="FastAPIProject143 Coverage Results" MODIFIED="1795419053982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
